@@ -1,0 +1,30 @@
+Question 1: From given data set print first and last five rows
+
+Question 2: Clean data and update the CSV file
+Replace all column values which contain ‘?’ , ' ' and n.a with NaN.
+
+Question 3: Find the most expensive car company name
+Print most expensive car’s company name and price.
+
+Question 4: Print All Toyota Cars details
+
+Question 5: Count total cars per company
+ 
+Question 6: Find each company’s Higesht price car
+
+Question 7: Find the average mileage of each car making company
+
+Question 8: Sort all cars by Price column
+
+Question 9: Concatenate two data frames using following conditions
+Create two data frames using following two Dicts, Concatenate those two data frame and create a key for each data frame.
+
+GermanCars = {'Company': ['Ford', 'Mercedes', 'BMV', 'Audi'], 'Price': [23845, 171995, 135925 , 71400]}
+japaneseCars = {'Company': ['Toyota', 'Honda', 'Nissan', 'Mitsubishi '], 'Price': [29995, 23600, 61500 , 58900]}
+
+
+Question 10: Merge two data frames using following condition
+Create two data frames using following two Dicts, Merge two data frames, and append second data frame as a new column to first data frame.
+
+Car_Price = {'Company': ['Toyota', 'Honda', 'BMV', 'Audi'], 'Price': [23845, 17995, 135925 , 71400]}
+car_Horsepower = {'Company': ['Toyota', 'Honda', 'BMV', 'Audi'], 'horsepower': [141, 80, 182 , 160]}
